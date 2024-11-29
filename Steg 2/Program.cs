@@ -18,22 +18,54 @@
 
     
 
-    Console.WriteLine("Här är namn på 5 personer!");
+    // Console.WriteLine("Här är namn på 5 personer!");
 
 
-    string[] namn = { "Martin", "Janan", "Rasmus", "Imad", "Adam"}; 
+    // string[] namn = { "Martin", "Janan", "Rasmus", "Imad", "Adam"}; 
 
-    foreach (string person in namn) 
-    {
-       Console.WriteLine(person); 
-    }
+    // foreach (string person in namn) 
+    // {
+    //    Console.WriteLine(person); 
+    // }
 
-    Console.ReadLine();
-
-
+    // //Console.ReadLine();
 
 
 
+// Console.WriteLine("Här är en lista på fem värden mellan 0 till 10!");
+
+// int[] värden = {3,5,7,9,4};
+
+// foreach (int värde in värden)
+// {
+//    Console.WriteLine(värde);
+// }
+//    Console.ReadLine(); 
+
+
+
+
+
+// Console.WriteLine("Här är listan");
+
+// string[] namn = {"Pelle", "Johan", "Karl", "Erik", "Patrik"}; 
+// string[] leksaker = {"Glock 18", "Boll", "Bil", "Anka", "C4"};
+// int[] betyg = {5, 8, 7, 6, 9}; 
+
+// for (int i = 0; i < namn.Length; i++) 
+// {
+//     Console.WriteLine(namn[i] + " ger " + leksaker[i] + " betyget " + betyg[i]);
+// }  
+//     Console.ReadLine(); 
+
+
+
+
+
+ 
+
+
+ 
 
 
 
