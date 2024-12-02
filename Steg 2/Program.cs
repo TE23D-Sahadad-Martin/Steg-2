@@ -1,34 +1,34 @@
-﻿  
- // Console.WriteLine("Här är en lista på 5 leksaker");
-  
-  //string[] leksaker = { "Teddy björn", "Lego", "bilar", "Rubik's kub", "Glock 18" };
+﻿
+// Console.WriteLine("Här är en lista på 5 leksaker");
 
-  //Console.ReadLine(); 
+//string[] leksaker = { "Teddy björn", "Lego", "bilar", "Rubik's kub", "Glock 18" };
 
-     // Console.WriteLine("Här är en lista på 5 leksaker:");
+//Console.ReadLine(); 
 
-       // string[] leksaker = { "Teddy björn", "Lego", "Bilar", "Rubik's kub", "Glock 18" };
+// Console.WriteLine("Här är en lista på 5 leksaker:");
 
-      //  foreach (string leksak in leksaker)
-        //{
-          //  Console.WriteLine(leksak);
-        //}
+// string[] leksaker = { "Teddy björn", "Lego", "Bilar", "Rubik's kub", "Glock 18" };
 
-        //Console.ReadLine();
+//  foreach (string leksak in leksaker)
+//{
+//  Console.WriteLine(leksak);
+//}
 
-    
-
-    // Console.WriteLine("Här är namn på 5 personer!");
+//Console.ReadLine();
 
 
-    // string[] namn = { "Martin", "Janan", "Rasmus", "Imad", "Adam"}; 
 
-    // foreach (string person in namn) 
-    // {
-    //    Console.WriteLine(person); 
-    // }
+// Console.WriteLine("Här är namn på 5 personer!");
 
-    // //Console.ReadLine();
+
+// string[] namn = { "Martin", "Janan", "Rasmus", "Imad", "Adam"}; 
+
+// foreach (string person in namn) 
+// {
+//    Console.WriteLine(person); 
+// }
+
+// //Console.ReadLine();
 
 
 
@@ -59,6 +59,14 @@
 //     Console.ReadLine(); 
 
 
+
+Console.WriteLine("Här är en tom lista.");
+
+List<string> listnamn = new List<string>();
+
+listnamn.Add("cities"); 
+
+Console.ReadLine(); 
 
 
 
