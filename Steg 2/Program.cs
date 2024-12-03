@@ -69,29 +69,29 @@
 // Console.ReadLine(); 
 
 
-List<string> cities = new List<string>(); 
+// List<string> cities = new List<string>(); 
 
-while (true)
+// while (true)
 
-{
-  Console.WriteLine("Ange en stad! (Exit för att avsluta)"); 
-  string input = Console.ReadLine(); 
-  if (input.ToLower() == "exit")
-  {
-    break;
-  }
+// {
+//   Console.WriteLine("Ange en stad! (Exit för att avsluta)"); 
+//   string input = Console.ReadLine(); 
+//   if (input.ToLower() == "exit")
+//   {
+//     break;
+//   }
   
-  cities.Add(input);
-  Console.WriteLine("staden har lagts in i listan.")
+//   cities.Add(input);
+//   Console.WriteLine("staden har lagts in i listan.")
 
 
 
-Console.WriteLine("du har valt dessa städer.");
-foreach (string city in cities)
-{
-  Console.WriteLine("cities");
-}
- Console.ReadLine();
+// Console.WriteLine("du har valt dessa städer.");
+// foreach (string city in cities)
+// {
+//   Console.WriteLine("cities");
+// }
+//  Console.ReadLine();
 
 
  
